@@ -1,5 +1,5 @@
-#(c) 2015, Jason Gao <goajian01735@pwrd.com>
-#This file is part of Log4s Programe
+#(c) 2015, Jason Gao <kidnet05@gmail.com>
+#This file is part of Log4py Programe
 
 from multiprocessing import Queue
 from multiprocessing.managers import BaseManager
